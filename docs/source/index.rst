@@ -7,12 +7,13 @@ If you're currently on the GitHub, our documentation can also be viewed on `Read
 .. _GitHub: https://github.com/ltsnnh?tab=repositories
 .. _Read the Docs: https://ltsnnh-docs.readthedocs.io/en/latest/
 
-This documentation has been created with the following goals in mind:
-
-- To document the functionality of the various libraries
-- To contain information regarding build instructions and debugging on my custom hardware
-
 --------------------------------------------------------------------------------
+
+.. toctree::
+   :caption: Toolchain
+   :maxdepth: 2
+
+   version-control-platform/version-control-platform
 
 .. toctree::
    :caption: Embedded Systems
